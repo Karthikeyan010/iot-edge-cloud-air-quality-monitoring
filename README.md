@@ -34,7 +34,6 @@ This project demonstrates the design and deployment of a full IoT data processin
 ## 📂 Project Structure
 
 - `docs/`: Screenshots of setup, logs, and results
-- `CSC8112-report-samuel-pillai.pdf`: Final coursework report
 - `README.md`: This file
 
 ---
